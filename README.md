@@ -16,7 +16,11 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriASN&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+  <a href="https://github.com/YuriASN#contributions">
+    <img src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full Contribution Graph on GitHub"/>
+  </a>
+  <br/>
+  <sub>Includes private contributions — visit my GitHub profile to see the full activity graph.</sub>
 </p>
 
 ---

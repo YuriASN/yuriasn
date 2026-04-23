@@ -18,6 +18,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriASN&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </p>
+<p align="center">
+  <a href="#bottom">
+    <img src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full Contribution Graph on GitHub"/>
+  </a>
+  <br/>
+  <sub>Includes private contributions — visit my GitHub profile to see the full activity graph.</sub>
+</p>
 
 ---
 
@@ -44,3 +51,4 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+<a id="bottom"></a>

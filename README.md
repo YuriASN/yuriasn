@@ -7,8 +7,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriASN&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Yuri's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriASN&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriASN&theme=github_dark" alt="Yuri's GitHub Stats" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuriASN&theme=github_dark" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriASN&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriASN&theme=github_dark" alt="Contribution Graph"/>
 </p>
 <p align="center">
   <a href="https://github.com/YuriASN">

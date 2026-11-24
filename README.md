@@ -1,6 +1,14 @@
 ## Hi there 👋 I'm Yuri
 
-🎓 Student at [42 Lisboa](https://www.42lisboa.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/yuriasn)
+Software Development Student at [42 Lisboa](https://www.42lisboa.com/).
+
+Working on projects in C, C++ and Python, focused on algorithms, systems programming, concurrency and problem-solving.
+
+Currently looking for a trainee or junior opportunity in software development.
+
+📍 Almada, Portugal
+
+💼 [LinkedIn](https://www.linkedin.com/in/yuriasn) · [Email](mailto:yuriasn@hotmail.com)
 
 ---
 
@@ -32,13 +40,16 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Libft](https://github.com/YuriASN/Libft_2.0) | Custom C standard library — the foundation of all 42 projects | C |
-| [ft_printf](https://github.com/YuriASN/ft_printf) | Reimplementation of `printf` from scratch | C |
-| [get_next_line](https://github.com/YuriASN/get_next_line) | Read a file line by line using only one static variable | C |
+| 🚧 [Fly-In](https://github.com/YuriASN/Fly-in) | Drone routing system taht navigates multiple drones through connected zones | Python |
+| 🚧 [CallMeMaybe](https://github.com/YuriASN/CallMeMaybe) | Small LLM model constraint to give valid JSON results | Python |
+| [A-Maze-Ing](https://github.com/YuriASN/A-Maze-ing) | Maze generation and display program with ASCII or window rendering | Python |
+| [minishell](https://github.com/YuriASN/minishell) | A mini bash shell program — pipes | C |
 | [philosophers](https://github.com/YuriASN/philosophers) | Dining philosophers problem — threads & mutexes | C |
 | [minitalk](https://github.com/YuriASN/minitalk) | Client–server communication using UNIX signals | C |
 | [so_long](https://github.com/YuriASN/so_long) | 2D game built with MiniLibX | C |
 | [cpp](https://github.com/YuriASN/cpp) | C++ modules from 42 Lisboa | C++ |
+
+🚧 _Currently working on_
 
 ---
 
